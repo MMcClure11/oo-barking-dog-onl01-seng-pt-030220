@@ -26,6 +26,10 @@ class Dog
     
   end
   
+  def name
+    
+  end
+  
 end
 
 
